@@ -1,0 +1,29 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+  }
+    body {
+  text-align: center;
+
+}
+
+textarea {
+  width: 32%;
+  float:top;
+  min-height: 250px;
+  overflow: scroll;
+  margin: auto;
+  display: inline-block;
+  background: #f4f4f9;
+  outline: none;
+resize: none;
+  font-size: 14px;
+}
+
+iframe {
+  bottom: 0;
+  position: relative;
+  width: 100%;
+  height: 35em;
+  resize:both;
+}
